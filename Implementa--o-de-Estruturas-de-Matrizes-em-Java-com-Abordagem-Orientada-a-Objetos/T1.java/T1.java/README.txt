@@ -22,7 +22,6 @@ Atividades concluídas:
 ✅ A4: Criação de testes extensivos na classe `Main`, cobrindo:
   - Todas as operações de ambas as matrizes.
   - Casos esperados de erro com exceções.
-✅ A5: Vídeo explicativo gravado conforme solicitado.
 
 ---
 
@@ -33,5 +32,6 @@ Como compilar e rodar:
    java Main
 
 ---
+
 
 
